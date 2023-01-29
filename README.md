@@ -17,5 +17,3 @@ The application will display a random meme each time you refresh the page. Feel 
 ## Author
 * **Arnav Raj** - [Arnav41](https://github.com/Arnav41)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
