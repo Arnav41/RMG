@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Shadows+Into+Light&display=swap');
+/* display */
+* {
+    margin: 0%;
+    padding: 0%;
+}
+html {
+    overflow: hidden;
+}
+body {
+
+    position: flex;
+    align-content: center;
+    background: #fca7a7;
+    border-radius: 4px;
+}
+
+
+
+
+/* contents */
+
+.head {
+    margin: auto;
+    width: 653px;
+    height: 77px;
+    text-align: center;
+    background: #d9d9d9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+}
+
+.head h1{
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
+    margin: auto;
+}
+
+
+
+.but_1{
+    margin-left: 45%;
+    width: 129px;
+    height: 40px;
+    background: #DCD86D;
+    border: 2px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.meme{
+    margin: auto;
+    margin-left: 38%;
+    width: 297px;
+    height: 397px;
+    border-width: 2px 1px 2px 2px;
+    border-style: solid;
+    border-color: #000000;
+    border-radius: 41px;
+    
+}
